@@ -24,6 +24,7 @@ This page intended to showcase work performed by me for reference by myself and 
 * install live server for vs code
 * open the repo in vs code
 * open index.htm in browser using live server
+* view the page via gitup pages here:  https://aaronvbrown.github.io/port/
 
 
 ## Known Bugs
