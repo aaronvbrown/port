@@ -1,15 +1,12 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
 }
 
 img {
     float:left;
     padding: 25px;
 }
-
-/* div {
-    background-color: beige;
-} */
 
 #aboutme {
     background-color: beige;
